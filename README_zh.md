@@ -26,5 +26,5 @@ Discord - https://discord.com/invite/ratrig
 ## 协议
 此仓库中的所有文件均采用 [Creative Commons Attribution-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-sa/4.0/) 协议。详情请参见 LICENSE 文件。
 
-译者注：
-** HF 和 UHF 即 ”High Flow“ 和 ”Ultra High Flow“，分别为高流量和「超」高流量。
+<br/><br/> 译者注：
+<br/><br/> ** HF 和 UHF 即 ”High Flow“ 和 ”Ultra High Flow“，分别为高流量和「超」高流量。
